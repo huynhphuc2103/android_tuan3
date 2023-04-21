@@ -4,35 +4,35 @@
 			"date":"28/11/2017",
 			"subject":"Android programing",
 			"begin":"12:30",
-			"Time": "90"
+			"Time": "90",
 			"Teacher":"Vu Van Vinh"
 		},
 		{
 			"date":"29/11/2017",
 			"subject":"Data Structure",
 			"begin":"07:00",
-			"Time": "135"
+			"Time": "135",
 			"Teacher":"Lam Thi Hoa Mi"
 		},
 		{
 			"date":"28/11/2017",
 			"subject":"Software engineer",
 			"begin":"13:15",
-			"Time": "450"
+			"Time": "450",
 			"Teacher":"Nguyen Thi Bich Ngan"
 		},
 		{
 			"date":"30/11/2017",
 			"subject":"Artificial Intelligence ",
 			"begin":"09:30",
-			"Time": "13:15"
+			"Time": "13:15",
 			"Teacher":"Van The Thanh"
 		},
 		{
 			"date":"31/11/2017",
 			"subject":"Windows programing",
 			"begin":"07:00",
-			"Time": "13:15"
+			"Time": "13:15",
 			"Teacher":"Bui Cong Danh"
 		}
 	]
