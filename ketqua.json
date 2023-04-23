@@ -1,0 +1,46 @@
+{
+    "ketquas":[
+	{
+		"MaMon":"MH110",
+		"TenMon":"Tin hoc",
+		"TL":6.9,
+		"GK":4.3,
+		"CK":8.0
+	},
+	{
+		"MaMon":"MH111",
+		"TenMon":"Vat ly dai cuong",
+		"TL":4.9,
+		"GK":7.3,
+		"CK":4.0
+	},
+	{
+		"MaMon":"MH07",
+		"TenMon":"Co so du lieu",
+		"TL":2.9,
+		"GK":7.2,
+		"CK":8.2
+	},
+	{
+		"MaMon":"CH420",
+		"TenMon":"Sinh hoc",
+		"TL":6.4,
+		"GK":4.3,
+		"CK":8.4
+	},
+	{
+		"MaMon":"MH37",
+		"TenMon":"Vat ly",
+		"TL":6.9,
+		"GK":9.3,
+		"CK":8.9
+	},
+	{
+		"MaMon":"CH112",
+		"TenMon":"Hoa hoc",
+		"TL":9.9,
+		"GK":9.3,
+		"CK":9.0
+	}
+	]
+}
